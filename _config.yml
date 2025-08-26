@@ -1,5 +1,5 @@
 title: My WildCat Studios Portfolio description: >-
          This is my portfolio showcasing my projects and skills.
 baseurl: "" # leave empty since this is your user page
-url: "https://Julian1927161.github.io" # replace YOURUSERNAME with your GitHub username
+url: "https://julian1927161.github.io" # replace YOURUSERNAME with your GitHub username
 theme: jekyll-theme-slate # replace with your chosen theme from the list
