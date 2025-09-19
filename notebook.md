@@ -2,17 +2,17 @@
 
 ## Table of Contents
 - [Binary Notes](#binary-notes)
-  - [Binary Flippy](#binary-flippy-do-number-system)
-  - [Practice](#practice)
-- [Coding](coding)
-  -[Code Definitions](#code-definitions)
-  -[Pseudocode and Java Table](pseudocode-java-reference)
--[Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+  - [Binary Conversion](#binary-conversion-table)
+  - [Convert From Decimal](#convert-from-decimal)
+   - [Binary Flippy](#binary-flippy-do-number-system)
+- [Coding](#coding)
+  - [Code Definitions](#code-definitions)
+  - [Pseudocode and Java Table](#pseudocode-java-reference)
+- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 ## Binary notes
 Binary is a number system that uses 0 and 1
 
-## Binary Notes
 
 
 ### Binary conversion Table
@@ -39,7 +39,7 @@ Convert 2989 from decimal (base 10) to hexadecimal (base 16)
 
 
 
-### Binary flippy-do/number system
+### Binary flippy-do number system
 
 
 ---
@@ -56,8 +56,7 @@ Add up the values to get the answer:
 10101010 = 170,
 01000101 = 69,
 00000100 = 4,
-## Day 2
-Notes for day 2
+
 Meta data is the details about the thing
 
 
@@ -65,10 +64,10 @@ Meta data is the details about the thing
 
 
 
+## Coding
 
 
-
-## Code Definition
+### Code Definitions
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
