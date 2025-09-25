@@ -8,7 +8,9 @@
 - [Coding](#coding)
   - [Code Definitions](#code-definitions)
   - [Pseudocode and Java Table](#pseudocode-java-reference)
+  - [Variables and dataTypes](#variables-and-datatypes)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+
 
 ## Binary notes
 Binary is a number system that uses 0 and 1
@@ -113,6 +115,38 @@ Meta data is the details about the thing
 | **Procedure (Void)** | `PROCEDURE greet(name)`<br/>`    DISPLAY "Hello " + name` | `public static void greet(String name) {`<br/>`    System.out.println("Hello " + name);`<br/>`}` |
 | **Procedure (Return)** | `PROCEDURE square(num)`<br/>`    RETURN num * num` | `public static int square(int num) {`<br/>`    return num * num;`<br/>`}` |
 | **Procedure (Boolean)** | `PROCEDURE isEven(num)`<br/>`    IF num MOD 2 = 0`<br/>`        RETURN true`<br/>`    ELSE`<br/>`        RETURN false` | `public static boolean isEven(int num) {`<br/>`    if (num % 2 == 0) {`<br/>`        return true;`<br/>`    } else {`<br/>`        return false;`<br/>`    }`<br/>`}` |
+
+
+
+
+
+
+
+## Variables and dataTypes
+
+**Structure of a variable**
+```java
+// DataType variableName = value;
+// = is the assignment operator, spoken as "gets"
+String name = "Julian";
+int grade = 10;
+double gpa = 3.5;
+char initial = 'J'
+boolean isOn = false;
+```
+
+
+**Primative datatype**
+Is a value that takes no more than 1 byte
+Examples: int, char, boolean, double
+
+
+**Pointer DataType**
+Object dataTypes, they're too big for 1 byte, so instead of storing the data, it stores a pointer, which points to the memory location of the data
+Examples: String, Arraylist, and objects created from a class
+
+**Semicolon ;**
+Is like a period. It's the end of your code statement.
 
 
 
