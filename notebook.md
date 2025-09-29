@@ -5,10 +5,11 @@
   - [Binary Conversion](#binary-conversion-table)
   - [Convert From Decimal](#convert-from-decimal)
    - [Binary Flippy](#binary-flippy-do-number-system)
-- [Coding](#coding)
+- [Java/Pseudocode Coding](#coding)
   - [Code Definitions](#code-definitions)
   - [Pseudocode and Java Table](#pseudocode-java-reference)
   - [Variables and dataTypes](#variables-and-datatypes)
+  - [Conditionals](#conditionals)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 
@@ -150,7 +151,27 @@ Examples: String, Arraylist, and objects created from a class
 Is like a period. It's the end of your code statement.
 
 
+## Conditionals
 
+if(condition)
+{
+	//do if condition is true
+} else if (nextCondition)
+{
+//do if condition is false but nextCondition is true
+} else
+{
+	//do if all prior conditions are false
+}
+
+> Greater than
+< Less than
+>= Greater than or equal
+<= Less than or equal
+
+//% is modulus, it gets the remainder when dividing by the 2nd number
+&& and operator: 
+|| or operator
 
 
 
