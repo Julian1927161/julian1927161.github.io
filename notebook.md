@@ -10,7 +10,7 @@
   - [Pseudocode and Java Table](#pseudocode-java-reference)
   - [Variables and dataTypes](#variables-and-datatypes)
   - [Conditionals](#conditionals)
-  - [Functions/procedures](#functionprocedures)gsq
+  - [Functions/procedures](#functionprocedures)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 
