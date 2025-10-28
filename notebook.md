@@ -96,7 +96,8 @@ Meta data is the details about the thing
 |      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
 |      | Changing how a built-in or inherited function behaves. | `@override` |  |  |
 |      | A function that does not return a value. | `void printMessage() {}` |  |  |
-
+| Escape characters | Break out of a string to do something | \n new line, \t add tab, \" adds ", \' adds ' |
+| |
 
 
 
