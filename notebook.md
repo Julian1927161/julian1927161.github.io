@@ -96,8 +96,17 @@ Meta data is the details about the thing
 |      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
 |      | Changing how a built-in or inherited function behaves. | `@override` |  |  |
 |      | A function that does not return a value. | `void printMessage() {}` |  |  |
-| Escape characters | Break out of a string to do something | \n new line, \t add tab, \" adds ", \' adds ' |
-| |
+| Escape characters | Break out of a string to do something | \n new line, \t add tab, \" adds ", \' adds ' | | |
+
+
+
+## Algorithm Notes
+
+ ### Questions to ask when solving
+ - Where is the data coming from for this algorithm?
+  - Am I writing it in my program?
+  - Am I asking my user to input it?
+  - Am I pulling it in from an outside source for file?
 
 
 
@@ -199,6 +208,20 @@ public static void sayHello ()
 
 
 
+## For Loops
+
+```java
+for (int i = 1; i <= 10; i++) {
+//body of code
+}
+```
+Components of thefor loop:
+for: specifies the type of loop
+(paeanthesis): the rules for the loop
+int i = 1; creates the counter variable starting at 0 or 1 most often, standard  naming calls it "i" which is short for index
+i <=10 : the condition that it runs if it is true
+i++ : increments "i" by 1, could be replaced with i = i + i, i+=2 which would add 2, 1*=3 which would multiply it by 3, or any other modifiers
+{curly bracket}: the body of the code that runs during the loop
 
 
 
